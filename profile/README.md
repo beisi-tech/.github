@@ -1,12 +1,74 @@
 ## Hi there 👋
+# 欢迎加入Beisi科技
 
-<!--
+![公司Logo](https://beisi.tech/logo.png)
 
-**Here are some ideas to get you started:**
+## 关于我们
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Beisi科技**致力于寻找看好公司发展前景、有时间投入公司项目、积极紧跟最近科技发展潮流的人才。我们提供技术指导、实习证明、高级VPN节点以及ChatGPT Plus订阅等资源。
+
+### 我们提供：
+- 技术指导
+- 实习证明
+- 高级VPN节点
+- ChatGPT Plus订阅
+
+### 工作方式：
+- 线上兼职
+- GitHub远程提交代码
+
+### 薪资待遇：
+- 任务按照难度不同给予20~100元任务奖励，每周日结算
+- 公司每月1日主要根据仓库commit数量发放薪资
+- 项目新人前两周一般没有工资
+
+## 如何加入我们
+
+1. **详细查看说明文档并确认加入**
+2. **向罗德运（招新主管）提供面试资料**
+   - GitHub 主页截图
+   - ChatGPT 使用截图
+   - Cursor 使用截图
+   - GitHub desktop拉取本仓库到本地截图
+3. **在邮件中接受加入GitHub云端仓库的邀请**
+4. **Clone 云端仓库到本地**
+5. **请求洪庆杨（技术）协助配置开发环境**
+
+### 我们欢迎：
+- 需要实习的在校生
+- 热爱钻研的技术宅
+- 团结友好的交流者
+- 坚定不移的行动派
+
+## 你会学到
+
+- 使用GitHub进行协作
+- 使用AI工具编写代码
+- 学会解决各种BUG
+- 技术栈：Vue3、Python、Java、MySQL
+- 软件：VScode、Pycharm、Cursor、GitHub desktop
+
+## 公司项目介绍
+
+### 黄色仓库项目
+进度：[██████████████------] 70%
+
+### AI_Box项目
+进度：[█-------------------] 5%
+
+### 大学生家教辅导兼职小程序项目
+进度：[██████-------------------] 30%
+
+## 公司负责人
+
+- 总负责人 林智清
+- 招新负责人 罗德运 → [联系](mailto:luodeyun@beisi.tech)
+- 开发环境配置 洪庆杨
+
+## 人员概况
+
+团队成员大约有10人，以在校生和实习生为主。
+
+## 加入公司招新群
+
+请访问我们的网站获取更多信息：[beisi.tech](https://beisi.tech)
