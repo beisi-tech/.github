@@ -57,14 +57,6 @@
 - 根据仓库 commit 数量发放薪资，每月 1 日发放
 - 新成员前两周一般没有工资哦～
 
-### 学习收获 📚
-
-- 使用 GitHub 进行协作
-- 使用 AI 工具编写代码
-- 解决各种 BUG
-- 技术栈：Vue3、Python、Java、MySQL
-- 软件：VS code、Pycharm、Cursor、GitHub Desktop
-
 ---
 
 访问我们的官网：[beisi.tech](https://beisi.tech)
